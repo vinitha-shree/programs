@@ -1,3 +1,26 @@
+//rhombus pattern
+/* 
+
+Input (stdin)
+
+5
+
+Your Output (stdout)
+
+****/\****
+***/**\***
+**/****\**
+*/******\*
+/********\
+\********/
+*\******/*
+**\****/**
+***\**/***
+****\/****
+
+
+*/
+
 #include <iostream>
 //rhombus pattern
 using namespace std;
