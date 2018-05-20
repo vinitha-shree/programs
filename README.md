@@ -98,3 +98,16 @@ Input:<br>
 bala<br>
 output:<br>
 lba<br>
+
+# reverse except vowel places
+<p>program to reverse the given string without altering the vowel places </p><br>
+<strong>Example Input/Output 1:</strong><br>
+Input:<br>
+vinitha<br>
+output:<br>
+hitinva<br>
+<strong>Example Input/Output 2:</strong><br>
+Input:<br>
+bala<br>
+output:<br>
+laba<br>
