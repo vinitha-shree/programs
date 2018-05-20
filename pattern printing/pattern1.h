@@ -1,3 +1,18 @@
+/*
+Input (stdin):
+7
+
+Your Output (stdout):
+
+*******
+*#####*
+*#####*
+*#####*
+*#####*
+*#####*
+*******
+
+*/
 #include<stdio.h>
 #include <stdlib.h>
 
