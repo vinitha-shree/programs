@@ -68,3 +68,20 @@ Input:<br>
 vinitha_<br>
 output:<br>
 ahtiniv_<br>
+
+# maximum subarray sum
+<strong>input format</strong><br>
+<p>first line contains N - no. of elements in the array. Second line contains 'N' elements</p>
+<strong>Example Input/Output 2:</strong><br>
+Input:<br>
+6<br>
+5 -6 -3 1 6 -8<br>
+output:<br>
+7<br>
+Input:<br>
+10<br>
+-12 34 9 -1 55 -67 109 22 11 10<br>
+output:<br>
+182<br>
+explanation:<br>
+sub-array from 34 to 10 gives the highest sum of 182<br> 
