@@ -43,3 +43,12 @@ Output:<br>
 1<br>
 0<br>
 1<br>
+
+# no. of common characters
+ <p>count the nimber of characters common in the given two strings.</p><br> 
+ <strong>input: </strong><br>
+ vinithashree<br>
+ keerthana<br>
+ <strong> output:</strong><br>
+ 6<br>
+
