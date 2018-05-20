@@ -88,10 +88,12 @@ sub-array from 34 to 10 gives the highest sum of 182<br>
 
 # sorting characters in a string without repitition
 <p>sort the characters in the given array without repetition in the descending order. </p><br>
+<strong>Example Input/Output 1:</strong><br>
 Input:<br>
 vinitha<br>
 output:<br>
 vtniha<br>
+<strong>Example Input/Output 2:</strong><br>
 Input:<br>
 bala<br>
 output:<br>
