@@ -19,3 +19,17 @@ Input:<br>
 12345<br>
 Output:<br>
 -1
+
+# same document identification
+
+ <strong>input: </strong><br>6<br>
+        doc helo<br>
+        doc fskjf<br>
+        sheet style.xls<br>
+        doc jkfhjkhfkj<br>
+        doc helo<br>
+        sheet style.xls<br>
+ <strong> output:</strong><br>
+        helo<br>
+        style.xls<br>
+
