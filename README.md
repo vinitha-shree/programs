@@ -33,3 +33,13 @@ Output:<br>
         helo<br>
         style.xls<br>
 
+# Palindrome an be formed?
+ <p>check whether the given string is palindrome by removing any alphabet.</p><br> 
+ <strong>input: </strong><br>
+ aab<br>
+ abcde<br>
+ abcde<br>
+ <strong> output:</strong><br>
+1<br>
+0<br>
+1<br>
