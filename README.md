@@ -85,3 +85,14 @@ output:<br>
 182<br>
 explanation:<br>
 sub-array from 34 to 10 gives the highest sum of 182<br> 
+
+# sorting characters in a string without repitition
+<p>sort the characters in the given array without repetition in the descending order. </p><br>
+Input:<br>
+vinitha<br>
+output:<br>
+vtniha<br>
+Input:<br>
+bala<br>
+output:<br>
+lba<br>
