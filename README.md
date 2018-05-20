@@ -52,3 +52,19 @@ Output:<br>
  <strong> output:</strong><br>
  6<br>
 
+# reverse untill underscore without using inbuilt function
+<strong>Example Input/Output 1:</strong><br>
+Input:<br>
+vinitha_shree<br>
+output:<br>
+ahtiniv<br>
+<strong>Example Input/Output 2:</strong><br>
+Input:<br>
+\_shree<br>
+output:<br>
+\_shree<br>
+<strong>Example Input/Output 2:</strong><br>
+Input:<br>
+vinitha_<br>
+output:<br>
+ahtiniv_<br>
