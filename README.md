@@ -123,3 +123,10 @@ output:<br>
 4<br>
 explanation:<br>
 the longest increasing subsequence is -3,45,77,89.<br>
+
+# sorting strings based on length in the given sentence
+<strong>Example Input/Output 1:</strong><br>
+Input:<br>
+The pointer to the resultant string is passed as a return value.<br>
+output:<br>
+A to is as The the value string passed return pointer resultant.<br>
